@@ -3,3 +3,4 @@ let result=(firstName,lastName)=>{
 }
 result("John","Morris");
 
+
